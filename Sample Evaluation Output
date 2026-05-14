@@ -1,0 +1,8 @@
+{
+  "accuracy": 9,
+  "reasoning": 8,
+  "clarity": 9,
+  "instruction_following": 10,
+  "hallucination_risk": "LOW",
+  "final_score": 9.0
+}
