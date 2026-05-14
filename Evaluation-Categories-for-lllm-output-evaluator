@@ -1,0 +1,7 @@
+| Category              | Description                            |
+| --------------------- | -------------------------------------- |
+| Accuracy              | Measures factual correctness           |
+| Reasoning             | Evaluates logical consistency          |
+| Clarity               | Assesses readability and communication |
+| Instruction Following | Determines adherence to prompts        |
+| Hallucination Risk    | Detects fabricated information         |
